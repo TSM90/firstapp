@@ -1,6 +1,8 @@
-var SILLY = (function( module ) {
-	module.doit = function( resultObject ) {
-		resultObject.prepend( Date() + '<br/>');
+var SILLY = (function(module){
+
+	module.doIt = function(resultObject){
+		resultObject.prepend( Date() + '<br/>' );
 	};
-return module;	
-}(SILLY || {})};
+
+	return module;
+}(SILLY || {}));
