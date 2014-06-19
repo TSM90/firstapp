@@ -4,6 +4,8 @@ body { background: #A65000; }
 a { text-decoration: none; color: #5a0b00; }
 a:hover { color: #822216; }
 
-.resultbox img { width: 300px; padding: 6px 0 0 25px;}
+.resultbox img { width: 300px; padding: 6px 0 0 25px; }
+td img { height: 20px; width: 20px; float: right; }
 button { color: #5a0b00; }
 button a { text-decoration: none; }
+.buttonbox { background: #FFB673; width: 350px;}
