@@ -1,7 +1,7 @@
 body { background: #A65000; }
 .resultbox { background: #FFB673; }
-.resultbox a { text-decoration: none; color: #5a0b00; }
-.resultbox a:hover { color: #822216; }
+a { text-decoration: none; color: #5a0b00; }
+a:hover { color: #822216; }
 
 img { width: 300px; padding: 6px 0 0 6px; }
 button { color: #5a0b00; }
