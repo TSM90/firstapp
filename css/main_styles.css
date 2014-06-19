@@ -1,8 +1,9 @@
 body { background: #A65000; }
-.resultbox { background: #FFB673; }
+.resultbox { background: #FFB673; width: 350px; }
+
 a { text-decoration: none; color: #5a0b00; }
 a:hover { color: #822216; }
 
-img { width: 300px; margin: 0 auto 0 auto; }
+.resultbox img { width: 300px; padding: 6px 0 0 24px;}
 button { color: #5a0b00; }
 button a { text-decoration: none; }
